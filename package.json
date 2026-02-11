@@ -1,0 +1,17 @@
+{
+  "name": "nicosarontest",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Secure foundational repository",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo \"Error: no linter specified\" && exit 1",
+    "audit": "pnpm audit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

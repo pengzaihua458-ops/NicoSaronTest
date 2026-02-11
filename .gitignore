@@ -27,3 +27,26 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Cloud provider configurations
+.aws/
+.kube/
+.gcloud/
+.azure/
+
+# Additional security-sensitive files
+*.credentials
+*.secret
+*.password
+*.tfstate*
+.htpasswd
+*.jks
+*.p12
+*.pfx
+*.crt
+*.csr
+*.der
+.env.vault
+.serverless/
+backup.sql
+dump.sql
