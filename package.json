@@ -1,0 +1,12 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "lint": "prettier --check .",
+    "format": "prettier --write ."
+  }
+}
