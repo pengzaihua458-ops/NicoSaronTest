@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "lint": "prettier --check .",
+    "format": "prettier --write .",
+    "audit": "pnpm audit",
+    "test": "pnpm audit"
+  },
+  "devDependencies": {
+    "prettier": "3.4.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  }
+}
