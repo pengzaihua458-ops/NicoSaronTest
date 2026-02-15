@@ -1,0 +1,8 @@
+# Ignore auto-generated files
+pnpm-lock.yaml
+
+# Ignore documentation-only directories
+.jules/
+
+# Ignore dependency directories
+node_modules/
