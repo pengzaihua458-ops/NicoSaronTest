@@ -1,0 +1,20 @@
+{
+  "name": "nicosarontest",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "lint": "prettier --check --cache .",
+    "format": "prettier --write --cache .",
+    "audit": "pnpm audit"
+  },
+  "devDependencies": {
+    "prettier": "3.4.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  }
+}
