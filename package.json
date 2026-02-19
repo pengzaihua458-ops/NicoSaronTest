@@ -1,0 +1,25 @@
+{
+  "name": "nicosarontest",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Foundational repository for security and documentation best practices.",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "test": "vitest",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "build": "echo 'No build step defined'",
+    "audit": "pnpm audit"
+  },
+  "devDependencies": {
+    "eslint": "^9.20.0",
+    "prettier": "^3.5.1",
+    "vitest": "^3.2.4"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  }
+}
