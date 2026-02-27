@@ -1,0 +1,5 @@
+# Ignore large auto-generated files
+pnpm-lock.yaml
+
+# Ignore non-code documentation directories
+.jules/
