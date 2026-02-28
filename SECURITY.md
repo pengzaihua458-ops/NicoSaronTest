@@ -6,6 +6,21 @@ We take the security of our project seriously. If you believe you have found a s
 
 1. **Do not** open a public issue.
 2. Email your findings to [security@example.com](mailto:security@example.com).
-3. Provide a detailed description of the vulnerability, including steps to reproduce.
+3. Use the following template for your report:
+
+### Vulnerability Report Template
+
+```markdown
+### Description
+A clear and concise description of the vulnerability.
+
+### Reproduction Steps
+1.
+2.
+3.
+
+### Impact
+What could happen if this vulnerability is exploited?
+```
 
 We will acknowledge receipt of your report and provide an estimated timeline for a fix. Thank you for helping keep this project secure!
