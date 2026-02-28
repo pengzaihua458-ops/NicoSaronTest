@@ -1,0 +1,19 @@
+{
+  "name": "performance-foundation",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "lint": "prettier --check .",
+    "format": "prettier --write .",
+    "test": "exit 0"
+  },
+  "devDependencies": {
+    "prettier": "3.4.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  }
+}
