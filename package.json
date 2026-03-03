@@ -1,0 +1,9 @@
+{
+  "name": "performance-foundation",
+  "type": "module",
+  "engines": { "node": ">=20.0.0" },
+  "scripts": {
+    "audit": "pnpm audit"
+  },
+  "pnpm": { "onlyBuiltDependencies": [] }
+}
