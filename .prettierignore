@@ -1,0 +1,8 @@
+# Ignore tool-specific and documentation files
+.jules/
+pnpm-lock.yaml
+node_modules/
+dist/
+build/
+.eslintcache
+.prettier-cache
