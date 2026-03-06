@@ -1,0 +1,9 @@
+{
+  "name": "performance-foundation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Security-hardened foundation for performance-focused projects.",
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  }
+}
