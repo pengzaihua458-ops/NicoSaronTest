@@ -1,0 +1,6 @@
+# Ignore large auto-generated files to speed up Prettier discovery and parsing
+node_modules/
+pnpm-lock.yaml
+
+# Ignore agent-specific documentation to avoid unnecessary checks
+.jules/
