@@ -1,0 +1,21 @@
+{
+  "name": "performance-foundation",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  },
+  "scripts": {
+    "test": "vitest run",
+    "lint": "prettier --check . --cache",
+    "format": "prettier --write . --cache",
+    "audit": "pnpm audit"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1",
+    "vitest": "^3.2.4"
+  }
+}
