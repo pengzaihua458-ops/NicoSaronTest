@@ -1,0 +1,3 @@
+# Performance Optimization: Ignore large or documentation-heavy files to speed up scanning
+.jules/
+pnpm-lock.yaml
