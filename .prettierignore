@@ -1,0 +1,6 @@
+# Prettier Ignore File
+# ⚡ Bolt Optimization: Exclude non-source/large files to speed up linting/formatting.
+# Prevents scanning of the 32K+ line pnpm-lock.yaml and internal journal files.
+node_modules
+pnpm-lock.yaml
+.jules
