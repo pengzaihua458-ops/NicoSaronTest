@@ -1,0 +1,4 @@
+# ⚡ Bolt: Exclude large/non-code files to optimize tool discovery
+node_modules/
+pnpm-lock.yaml
+.jules/
