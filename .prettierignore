@@ -1,0 +1,4 @@
+# ⚡ Bolt: Exclude large or non-source directories to optimize Prettier performance.
+pnpm-lock.yaml
+.jules/
+node_modules/
