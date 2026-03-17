@@ -1,0 +1,7 @@
+# ⚡ Bolt: Exclude non-code and large generated files to optimize tool discovery performance.
+# This prevents Prettier from scanning large lockfiles and documentation-only trees,
+# significantly reducing execution time as the repository grows.
+
+.jules/
+node_modules/
+pnpm-lock.yaml
