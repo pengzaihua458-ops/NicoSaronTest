@@ -1,0 +1,4 @@
+# .prettierignore
+# ⚡ Bolt: Excluding non-code directories to optimize tool discovery.
+.jules/
+node_modules/
