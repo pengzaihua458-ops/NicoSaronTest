@@ -1,0 +1,32 @@
+# nicosarontest
+
+Foundational repository for security and documentation best practices.
+
+## 🔗 Quick Links
+
+- 🛡️ [Security Policy](SECURITY.md) — How to report vulnerabilities.
+- 📓 [Sentinel Journal](.jules/sentinel.md) — Security research and hardening logs.
+- 🎨 [Palette Journal](.jules/palette.md) — UX and accessibility improvements.
+
+## Security First
+
+This project is built with security as a core principle. We use automated auditing, strict engine enforcement, and supply chain hardening.
+
+### Security Features
+
+- **Supply Chain Hardening**: Only approved built dependencies are allowed to run lifecycle scripts.
+- **Node.js Enforcement**: Minimum Node.js version is enforced via `engines` and `.npmrc`.
+- **Automated Auditing**: High-level security audits are integrated into the workflow.
+
+## Getting Started
+
+```bash
+pnpm install
+pnpm audit
+pnpm test
+pnpm lint
+```
+
+## Reporting Vulnerabilities
+
+We value the work of security researchers. Please see our [Security Policy](SECURITY.md) for detailed instructions on how to report vulnerabilities safely and effectively.
