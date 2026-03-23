@@ -1,0 +1,3 @@
+# ⚡ Bolt: Exclude non-source and machine-generated files to speed up tool discovery
+.jules/
+pnpm-lock.yaml
