@@ -1,0 +1,3 @@
+# ⚡ Bolt: exclude large machine-generated files and non-source trees to optimize tool discovery performance
+pnpm-lock.yaml
+.jules/
