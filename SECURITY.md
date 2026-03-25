@@ -1,5 +1,13 @@
 # Security Policy
 
+[← Back to README](README.md)
+
+## 🔗 Quick Links
+
+- 🛡️ [Security Policy](SECURITY.md) — How to report vulnerabilities and stay safe.
+- 📓 [Sentinel Journal](.jules/sentinel.md) — Security research and critical learnings.
+- 🎨 [Palette Journal](.jules/palette.md) — Micro-UX improvements and accessibility insights.
+
 ## Reporting a Vulnerability
 
 We take the security of our project seriously. If you believe you have found a security vulnerability, please report it to us by following these steps:
