@@ -27,3 +27,10 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Tool caches and build artifacts
+.prettiercache
+.vitest-results
+coverage/
+dist/
+build/
