@@ -27,3 +27,27 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Additional security-sensitive files
+*.credentials
+*.secret
+*.password
+*.tfstate*
+.htpasswd
+*.jks
+*.p12
+*.pfx
+*.crt
+*.csr
+*.der
+.env.vault
+.serverless/
+backup.sql
+dump.sql
+
+# Tool caches and build artifacts
+.prettiercache
+.vitest-results
+coverage/
+dist/
+build/
