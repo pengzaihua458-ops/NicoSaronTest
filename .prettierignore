@@ -1,0 +1,4 @@
+# Ignore large or machine-generated files to speed up linting/formatting
+pnpm-lock.yaml
+node_modules/
+.jules/
