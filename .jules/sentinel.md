@@ -1,4 +1,6 @@
-# Sentinel Journal
+# 📓 Sentinel Journal
+
+[🏠 Home](../README.md) | [🛡️ Security](../SECURITY.md) | [🎨 Palette Journal](palette.md)
 
 ## 2026-02-08 - [Initial Security Hardening]
 **Vulnerability:** The repository was found to be empty, lacking baseline security documentation and protection against accidental leaks of sensitive files.
