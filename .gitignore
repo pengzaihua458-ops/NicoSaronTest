@@ -21,9 +21,26 @@ lerna-debug.log*
 *.key
 *.pem
 secrets.json
+.env.vault
 
 # IDE and System files
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Additional security-sensitive files
+*.credentials
+*.secret
+*.password
+*.tfstate*
+.htpasswd
+*.jks
+*.p12
+*.pfx
+*.crt
+*.csr
+*.der
+.serverless/
+backup.sql
+dump.sql
