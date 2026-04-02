@@ -22,6 +22,30 @@ lerna-debug.log*
 *.pem
 secrets.json
 
+# 🛡️ Sentinel: Hardened ignore patterns for security and performance
+# Certificates
+*.crt
+*.p12
+*.pfx
+*.csr
+*.der
+
+# Secrets and credentials
+.env.vault
+*.credentials
+*.secret
+*.password
+
+# Infrastructure states
+*.tfstate*
+
+# Tool caches and build artifacts
+.prettiercache
+.vitest-results
+coverage/
+dist/
+build/
+
 # IDE and System files
 .vscode/
 .idea/
