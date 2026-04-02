@@ -1,0 +1,5 @@
+# ⚡ Bolt: Optimizing tool discovery by excluding metadata and non-source directories
+.git/
+.jules/
+node_modules/
+pnpm-lock.yaml
