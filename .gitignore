@@ -17,13 +17,34 @@ lerna-debug.log*
 .env.development.local
 .env.test.local
 .env.production.local
+.env.vault
 *.env
 *.key
 *.pem
+*.credentials
+*.secret
+*.password
 secrets.json
+
+# Certificates
+*.crt
+*.p12
+*.pfx
+*.csr
+*.der
+
+# Infrastructure
+*.tfstate*
 
 # IDE and System files
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Tool caches and build artifacts
+.prettiercache
+.vitest-results
+coverage/
+dist/
+build/
