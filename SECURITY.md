@@ -1,5 +1,7 @@
 # Security Policy
 
+[🏠 Home](README.md) [🛡️ Security](SECURITY.md) [📓 Sentinel Journal](.jules/sentinel.md) [🎨 Palette Journal](.jules/palette.md)
+
 ## Reporting a Vulnerability
 
 We take the security of our project seriously. If you believe you have found a security vulnerability, please report it to us by following these steps:
