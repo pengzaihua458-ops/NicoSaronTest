@@ -1,0 +1,3 @@
+# Optimizing tool discovery by excluding metadata and non-source directories
+.jules/
+node_modules/
