@@ -27,3 +27,19 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Certificates and Keys
+*.crt
+*.pfx
+*.p12
+*.cer
+*.key
+*.pem
+
+# Secrets and Vaults
+credentials
+*vault*
+
+# Infrastructure state
+.terraform
+*.tfstate*
