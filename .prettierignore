@@ -1,0 +1,4 @@
+# .prettierignore
+# Exclude metadata directories to reduce tool discovery overhead and silence warnings.
+.jules/
+node_modules/
