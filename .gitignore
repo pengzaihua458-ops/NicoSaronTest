@@ -21,6 +21,32 @@ lerna-debug.log*
 *.key
 *.pem
 secrets.json
+*.pfx
+*.crt
+*.cert
+*.p12
+*.gpg
+*.asc
+
+# Infrastructure state and Cloud credentials
+.terraform/
+*.tfstate*
+.aws/
+.azure/
+.gcloud/
+.kube/
+docker-compose.override.yml
+
+# Tool caches and local databases
+.serverless/
+.serverless_nextjs/
+.webpack/
+.svelte-kit/
+.next/
+.db
+*.db
+*.sqlite
+*.sqlite3
 
 # IDE and System files
 .vscode/
