@@ -1,0 +1,3 @@
+# Ignore metadata and build artifacts to optimize formatting checks
+.jules/
+node_modules/
