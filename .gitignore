@@ -22,6 +22,28 @@ lerna-debug.log*
 *.pem
 secrets.json
 
+# Cloud credentials and sensitive config
+.aws/
+.gcloud/
+.azure/
+.ssh/
+
+# Infrastructure state
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Certificates and keys
+*.pfx
+*.p12
+*.cert
+*.crt
+*.pub
+
+# Tool caches
+.npm/
+.eslintcache
+
 # IDE and System files
 .vscode/
 .idea/
