@@ -1,0 +1,6 @@
+# Prettier Performance Optimization
+# Optimization: Ignore .jules/ directory
+# Impact: Reduces 'npx prettier --check .' execution time and eliminates noise from agent journal warnings.
+# Measured Baseline: ~5.6s
+
+.jules/
