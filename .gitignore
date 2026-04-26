@@ -27,3 +27,25 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Cloud credentials and sensitive local config
+.aws/
+.gcloud/
+.azure/
+.ssh/
+
+# Infrastructure as Code state
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Certificates and keys
+*.pfx
+*.p12
+*.cert
+*.crt
+.node-spawn-auth
+
+# Tool caches
+.npm/
+.eslintcache
