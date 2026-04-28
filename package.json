@@ -1,0 +1,12 @@
+{
+  "name": "nicosarontest",
+  "private": true,
+  "scripts": {
+    "lint": "prettier --check .",
+    "format": "prettier --write .",
+    "test": "exit 0"
+  },
+  "devDependencies": {
+    "prettier": "3.4.2"
+  }
+}
