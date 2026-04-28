@@ -1,0 +1,54 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Environment variables and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.key
+*.pem
+secrets.json
+
+# IDE and System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Cloud credentials and config
+.aws/
+.gcloud/
+.azure/
+.ssh/
+
+# Infrastructure state
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Certificates and keys
+*.pfx
+*.p12
+*.cert
+*.crt
+
+# Tool caches
+.npm/
+.eslintcache
+
+# Prettier ignore
+pnpm-lock.yaml
+.jules/
