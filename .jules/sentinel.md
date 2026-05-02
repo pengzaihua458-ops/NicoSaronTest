@@ -1,6 +1,6 @@
 # Sentinel Journal
 
-## 2026-02-08 - [Initial Security Hardening]
-**Vulnerability:** The repository was found to be empty, lacking baseline security documentation and protection against accidental leaks of sensitive files.
-**Learning:** Even an empty repository can benefit from immediate security posture improvements.
-**Prevention:** Establish a secure foundation by adding `SECURITY.md` and `.gitignore` as early as possible.
+## 2026-05-01 - [Foundational Security Hardening]
+**Vulnerability:** The repository lacked supply chain protections and robust baseline security configurations to prevent accidental data leaks.
+**Learning:** Establishing `onlyBuiltDependencies` in `package.json` is a critical first step for `pnpm` projects to prevent malicious postinstall scripts.
+**Prevention:** Always initialize new repositories with hardened `.gitignore` patterns and supply chain protections.
