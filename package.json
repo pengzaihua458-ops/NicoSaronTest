@@ -1,0 +1,14 @@
+{
+  "name": "nicosarontest",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "audit": "pnpm audit --audit-level=high"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  }
+}
