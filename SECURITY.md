@@ -1,3 +1,5 @@
+[🏠 Home](README.md) | [🎨 Palette](.jules/palette.md) | [🛡️ Sentinel](.jules/sentinel.md)
+
 # Security Policy
 
 ## Reporting a Vulnerability

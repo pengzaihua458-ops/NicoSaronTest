@@ -1,3 +1,5 @@
+[🏠 Home](../README.md) | [🛡️ Security](../SECURITY.md) | [🎨 Palette](palette.md)
+
 # Sentinel Journal
 
 ## 2026-02-08 - [Initial Security Hardening]
