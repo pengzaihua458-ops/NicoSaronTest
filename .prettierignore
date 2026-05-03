@@ -1,0 +1,46 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Environment variables and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.key
+*.pem
+secrets.json
+
+# IDE and System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Cloud and Infrastructure
+.aws/
+.gcp/
+.azure/
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Tool caches
+.cache/
+.eslintcache
+.prettiercache
+
+# Performance optimization: Ignore lockfile and journals from formatting
+pnpm-lock.yaml
+.jules/
