@@ -1,0 +1,7 @@
+# PRETTIER OPTIMIZATION LOGIC:
+# Excluding agent journals and auto-generated files to reduce I/O overhead.
+# Impact: Reduces formatting/linting time by skipping .jules/ and other non-source directories.
+
+.jules/
+node_modules/
+pnpm-lock.yaml
