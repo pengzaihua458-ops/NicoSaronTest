@@ -27,3 +27,16 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Cloud and Infrastructure
+.aws/
+.gcp/
+.azure/
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Tool caches
+.cache/
+.eslintcache
+.prettiercache
