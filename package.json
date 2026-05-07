@@ -1,0 +1,19 @@
+{
+  "name": "nicosarontest",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "lint": "prettier --check .",
+    "test": "echo \"No tests yet\" && exit 0",
+    "audit": "pnpm audit"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  }
+}
