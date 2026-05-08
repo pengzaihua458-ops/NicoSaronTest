@@ -27,3 +27,8 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Tool caches
+.cache/
+.eslintcache
+.prettiercache
