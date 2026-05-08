@@ -1,0 +1,2 @@
+# Skip formatting for agent journals to improve tool performance
+.jules/
