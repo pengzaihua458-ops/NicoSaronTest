@@ -20,7 +20,29 @@ lerna-debug.log*
 *.env
 *.key
 *.pem
+*.pfx
+*.p12
+*.jks
+*.cer
+*.crt
 secrets.json
+
+# Cloud and Infrastructure
+.aws/
+.config/gcloud/
+.terraform/
+*.tfstate*
+
+# SSH and Credentials
+.ssh/
+id_rsa*
+id_ed25519*
+authorized_keys
+known_hosts
+
+# Databases and Dumps
+*.sql
+*.dump
 
 # IDE and System files
 .vscode/

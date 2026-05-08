@@ -1,0 +1,20 @@
+{
+  "name": "nicosarontest",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "audit": "pnpm audit",
+    "format": "prettier --write .",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1",
+    "vitest": "3.0.5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  }
+}
