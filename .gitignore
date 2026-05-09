@@ -27,3 +27,16 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Security: Cloud and Credentials
+.aws/
+.gcloud/
+.ssh/
+*.p12
+*.pfx
+*.crt
+*.csr
+
+# Security: Database dumps
+*.sql
+*.dump
