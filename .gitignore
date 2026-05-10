@@ -27,3 +27,12 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Cloud provider configurations
+.aws/
+.gcloud/
+
+# Database files
+*.db
+*.sqlite
+*.sql
