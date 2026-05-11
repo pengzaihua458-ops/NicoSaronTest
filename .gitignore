@@ -18,8 +18,6 @@ lerna-debug.log*
 .env.test.local
 .env.production.local
 *.env
-*.key
-*.pem
 secrets.json
 
 # IDE and System files
@@ -27,3 +25,26 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Cloud provider configurations
+.aws/
+.gcloud/
+.azure/
+
+# SSH keys and certificates
+id_rsa
+id_ecdsa
+id_ed25519
+*.pub
+*.p12
+*.pfx
+*.pem
+*.key
+*.crt
+*.cert
+
+# Local databases and backups
+*.db
+*.sqlite
+*.sql
+*.dump
