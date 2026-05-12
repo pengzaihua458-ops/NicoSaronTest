@@ -1,0 +1,2 @@
+# Ignore agent journals and metadata to optimize formatting performance
+.jules/
