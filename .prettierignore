@@ -1,0 +1,2 @@
+# Exclude growing agent journals to maintain fast formatting checks
+.jules/
