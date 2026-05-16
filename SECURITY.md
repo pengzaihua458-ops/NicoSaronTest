@@ -1,5 +1,7 @@
 # Security Policy
 
+[🏠 Home](README.md) | **🛡️ Security** | [⚡ Bolt](.jules/bolt.md) | [🛡️ Sentinel](.jules/sentinel.md)
+
 ## Reporting a Vulnerability
 
 We take the security of our project seriously. If you believe you have found a security vulnerability, please report it to us by following these steps:
