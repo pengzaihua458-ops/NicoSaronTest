@@ -1,0 +1,2 @@
+# Exclude agent journals and metadata from Prettier scans
+.jules/
