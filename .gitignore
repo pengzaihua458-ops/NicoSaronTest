@@ -18,9 +18,30 @@ lerna-debug.log*
 .env.test.local
 .env.production.local
 *.env
+secrets.json
+
+# Cloud Provider Configurations
+.aws/
+.gcloud/
+.azure/
+
+# SSH Keys and Certificates
+id_rsa
+id_ecdsa
+id_ed25519
+id_dsa
+*.pub
+*.p12
+*.pfx
+*.crt
 *.key
 *.pem
-secrets.json
+
+# Local Database Files
+*.db
+*.sqlite
+*.sql
+*.dump
 
 # IDE and System files
 .vscode/
