@@ -1,0 +1,2 @@
+# Ignore metadata directory to improve Prettier scan performance as logs and journals grow.
+.jules/
