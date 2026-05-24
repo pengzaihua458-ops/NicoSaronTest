@@ -1,0 +1,2 @@
+# Optimize Prettier scan times by skipping agent metadata and journals
+.jules/
