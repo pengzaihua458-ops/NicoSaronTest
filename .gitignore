@@ -22,6 +22,25 @@ lerna-debug.log*
 *.pem
 secrets.json
 
+# Cloud Provider Configs
+.aws/
+.gcloud/
+.azure/
+
+# SSH keys
+id_rsa
+id_ecdsa
+id_ed25519
+id_dsa
+*.pub
+
+# Certificates
+*.crt
+
+# Databases
+*.db
+*.sqlite
+
 # IDE and System files
 .vscode/
 .idea/
