@@ -1,0 +1,2 @@
+# Exclude metadata directory to improve Prettier performance
+.jules/
