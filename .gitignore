@@ -27,3 +27,13 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Security and Credentials
+.aws/
+.gcloud/
+.azure/
+id_*
+*.crt
+*.pub
+*.db
+*.sqlite
