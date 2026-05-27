@@ -1,0 +1,2 @@
+# Exclude metadata and internal logs from Prettier scans to improve performance
+.jules/
