@@ -1,0 +1,9 @@
+# .prettierignore
+# Exclude metadata, build artifacts, and dependency directories from formatting checks
+# to ensure consistent performance as the repository grows.
+.jules/
+node_modules/
+dist/
+build/
+coverage/
+*.log
