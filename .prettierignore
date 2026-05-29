@@ -1,0 +1,9 @@
+# Prettier Ignore File
+# Exclude metadata and non-source directories to optimize toolchain performance
+
+.jules/
+node_modules/
+dist/
+build/
+coverage/
+*.log
