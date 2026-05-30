@@ -22,6 +22,16 @@ lerna-debug.log*
 *.pem
 secrets.json
 
+# Cloud and System configurations
+.aws/
+.gcloud/
+.azure/
+id_*
+*.pub
+*.crt
+*.db
+*.sqlite
+
 # IDE and System files
 .vscode/
 .idea/
