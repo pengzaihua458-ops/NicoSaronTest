@@ -1,0 +1,10 @@
+# Performance Optimization: Exclude non-source and metadata directories from Prettier scans.
+# This prevents toolchain degradation as the project scales.
+
+.git/
+.jules/
+node_modules/
+dist/
+build/
+coverage/
+*.log
