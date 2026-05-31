@@ -12,15 +12,22 @@ lerna-debug.log*
 .pnpm-debug.log*
 
 # Environment variables and secrets
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-*.env
+.env*
 *.key
 *.pem
 secrets.json
+
+# Cloud configurations and credentials
+.aws/
+.gcloud/
+.azure/
+id_*
+
+# Certificates and Databases
+*.pub
+*.crt
+*.db
+*.sqlite
 
 # IDE and System files
 .vscode/
