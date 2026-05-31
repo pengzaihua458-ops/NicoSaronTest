@@ -1,0 +1,7 @@
+# Exclude metadata and build artifacts from Prettier scans to maintain performance
+.jules/
+node_modules/
+dist/
+build/
+coverage/
+*.log

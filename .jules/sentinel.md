@@ -1,3 +1,5 @@
+[🏠 Home](../README.md) | [🛡️ Security](../SECURITY.md) | [⚡ Bolt](bolt.md) | **🛡️ Sentinel**
+
 # Sentinel Journal
 
 ## 2026-02-08 - [Initial Security Hardening]

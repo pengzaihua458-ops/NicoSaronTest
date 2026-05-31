@@ -1,3 +1,5 @@
+[🏠 Home](README.md) | **🛡️ Security** | [⚡ Bolt](.jules/bolt.md) | [🛡️ Sentinel](.jules/sentinel.md)
+
 # Security Policy
 
 ## Reporting a Vulnerability
