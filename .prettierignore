@@ -1,0 +1,10 @@
+# Prettier ignore file
+# Exclude metadata and non-source directories to optimize toolchain performance
+
+.jules/
+node_modules/
+dist/
+build/
+coverage/
+*.log
+.pnpm-debug.log*
