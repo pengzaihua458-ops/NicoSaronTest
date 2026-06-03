@@ -1,0 +1,16 @@
+# Ignore metadata directory to prevent toolchain slowdown
+.jules/
+
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+build/
+target/
+
+# Coverage reports
+coverage/
+
+# Logs
+*.log
