@@ -1,0 +1,9 @@
+# Ignore metadata directory
+.jules/
+
+# Ignore standard non-source directories
+node_modules/
+dist/
+build/
+coverage/
+*.log
