@@ -1,3 +1,5 @@
+**🛡️ Security** | [🎨 Palette](.jules/palette.md) | [⚡ Bolt](.jules/bolt.md) | [🛡️ Sentinel](.jules/sentinel.md)
+
 # Security Policy
 
 ## Reporting a Vulnerability
