@@ -1,0 +1,7 @@
+# Ignore metadata and build artifacts to maintain performance
+.jules/
+node_modules/
+dist/
+build/
+coverage/
+*.log
