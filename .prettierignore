@@ -1,0 +1,7 @@
+# Performance Hardening: Exclude non-source and metadata directories
+.jules/
+node_modules/
+dist/
+build/
+coverage/
+*.log
