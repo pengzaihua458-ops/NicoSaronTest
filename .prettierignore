@@ -1,0 +1,9 @@
+# Ignore metadata and agent journals to prevent toolchain slowdown
+.jules/
+
+# Standard ignore patterns
+node_modules/
+dist/
+build/
+coverage/
+*.log
