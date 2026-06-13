@@ -17,9 +17,19 @@ lerna-debug.log*
 .env.development.local
 .env.test.local
 .env.production.local
+.env.vault
 *.env
 *.key
 *.pem
+*.credentials
+*.secret
+*.password
+*.crt
+*.p12
+*.pfx
+*.csr
+*.der
+*.tfstate
 secrets.json
 
 # IDE and System files
