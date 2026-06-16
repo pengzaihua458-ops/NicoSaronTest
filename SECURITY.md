@@ -1,5 +1,14 @@
 # Security Policy
 
+## Supported Versions
+
+The table below describes the security support lifecycle for this project's versions.
+
+| Version | Supported        |
+| ------- | ---------------- |
+| 1.0.x   | ✅ Supported     |
+| < 1.0.0 | ❌ Not Supported |
+
 ## Reporting a Vulnerability
 
 We take the security of our project seriously. If you believe you have found a security vulnerability, please report it to us by following these steps:
