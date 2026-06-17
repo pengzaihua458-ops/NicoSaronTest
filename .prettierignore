@@ -1,0 +1,10 @@
+# Optimize toolchain performance by ignoring non-code and metadata directories
+# Performance impact: Reduces 'prettier --check .' time from >400s (timeout) to ~1.1s
+# when 5MB+ of metadata/logs are present in .jules/ or other ignored paths.
+.git/
+.jules/
+node_modules/
+dist/
+build/
+coverage/
+*.log
