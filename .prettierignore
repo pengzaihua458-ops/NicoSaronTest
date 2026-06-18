@@ -1,0 +1,7 @@
+# Optimize toolchain performance by ignoring non-code and metadata directories
+.jules/
+node_modules/
+dist/
+build/
+coverage/
+*.log
