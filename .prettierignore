@@ -1,0 +1,3 @@
+# Optimize toolchain performance by ignoring non-code and metadata directories
+.jules/
+.git/
