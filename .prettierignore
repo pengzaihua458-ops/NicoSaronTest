@@ -1,0 +1,6 @@
+# Optimize toolchain performance by ignoring non-code and metadata directories
+.git/
+.jules/
+node_modules/
+dist/
+build/
