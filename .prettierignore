@@ -1,0 +1,3 @@
+# Optimization: Exclude documentation/metadata directories from Prettier scans
+# to prevent performance degradation with large Markdown files.
+.jules/
