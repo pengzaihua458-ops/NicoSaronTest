@@ -21,6 +21,17 @@ lerna-debug.log*
 *.key
 *.pem
 secrets.json
+.env.vault
+*.credentials
+*.secret
+*.password
+*.crt
+*.p12
+*.pfx
+*.csr
+*.der
+*.tfstate
+*.tfstate.backup
 
 # IDE and System files
 .vscode/
