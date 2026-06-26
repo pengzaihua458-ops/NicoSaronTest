@@ -1,0 +1,9 @@
+# Prettier ignore file
+# Ignore metadata and build artifacts to speed up formatting checks
+
+.jules/
+.git/
+node_modules/
+dist/
+build/
+coverage/
