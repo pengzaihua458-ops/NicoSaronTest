@@ -1,0 +1,7 @@
+# Ignore metadata and build artifacts to speed up Prettier checks
+.jules/
+.git/
+node_modules/
+dist/
+build/
+coverage/
