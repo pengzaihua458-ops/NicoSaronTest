@@ -1,0 +1,11 @@
+# Metadata and version control
+.jules/
+.git/
+
+# Dependencies
+node_modules/
+
+# Build and coverage
+dist/
+build/
+coverage/
