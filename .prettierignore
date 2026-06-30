@@ -1,0 +1,9 @@
+# Ignore internal journals and metadata
+.jules/
+.git/
+
+# Ignore dependencies and build artifacts
+node_modules/
+dist/
+build/
+coverage/
