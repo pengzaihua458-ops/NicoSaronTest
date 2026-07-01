@@ -1,0 +1,6 @@
+# Optimization: Skip scanning non-source and documentation directories to keep toolchain fast
+.jules/
+dist/
+build/
+coverage/
+*.lock
