@@ -27,3 +27,16 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Infrastructure and Security Hardening
+.env.vault
+*.credentials
+*.secret
+*.password
+*.crt
+*.p12
+*.pfx
+*.csr
+*.der
+*.tfstate
+*.tfstate.backup
