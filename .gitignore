@@ -21,6 +21,13 @@ lerna-debug.log*
 *.key
 *.pem
 secrets.json
+.vault/
+credentials.json
+auth.json
+
+# Infrastructure state
+*.tfstate
+*.tfstate.backup
 
 # IDE and System files
 .vscode/
