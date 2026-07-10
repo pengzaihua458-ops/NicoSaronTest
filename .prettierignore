@@ -1,0 +1,11 @@
+# Ignore internal agent journals
+.jules/
+
+# Ignore Git metadata
+.git/
+
+# Ignore common dependency and build directories
+node_modules/
+dist/
+build/
+coverage/
