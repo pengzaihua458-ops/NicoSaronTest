@@ -1,0 +1,5 @@
+# Ignore internal agent journals
+.jules/
+
+# Ignore git system files
+.git/
