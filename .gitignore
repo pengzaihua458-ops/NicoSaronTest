@@ -27,3 +27,9 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Security: Infrastructure and Cloud credentials
+.aws/
+.kube/config
+terraform.tfstate*
+.vault-token
