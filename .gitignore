@@ -27,3 +27,11 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Cloud credentials and infrastructure
+.aws/
+.kube/config
+.terraform/
+*.tfstate*
+.vault-token
+.netrc
