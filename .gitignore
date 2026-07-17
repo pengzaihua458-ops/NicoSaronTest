@@ -21,6 +21,20 @@ lerna-debug.log*
 *.key
 *.pem
 secrets.json
+*.vault
+*vault*.json
+
+# Cloud and Infrastructure Secrets
+.kube/config
+.aws/credentials
+.terraform/
+terraform.tfstate*
+
+# Certificates and Keystores
+*.crt
+*.p12
+*.pfx
+*.jks
 
 # IDE and System files
 .vscode/
