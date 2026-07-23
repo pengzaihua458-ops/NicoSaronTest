@@ -1,3 +1,5 @@
+[🛡️ Security](../SECURITY.md) | [🛡️ Sentinel](sentinel.md)
+
 # Sentinel Journal
 
 ## 2026-02-08 - [Initial Security Hardening]
