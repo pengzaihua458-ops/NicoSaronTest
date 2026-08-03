@@ -27,3 +27,20 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Scoped cloud credentials
+.kube/config
+.aws/credentials
+
+# Cryptographic certificates
+*.crt
+*.pfx
+*.p12
+
+# Infrastructure state
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Vault tokens
+.vault-token
