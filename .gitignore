@@ -11,7 +11,7 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
-# Environment variables and secrets
+# Environment variables, credentials, and secrets
 .env
 .env.local
 .env.development.local
@@ -20,7 +20,18 @@ lerna-debug.log*
 *.env
 *.key
 *.pem
+*.crt
+*.pfx
+*.p12
 secrets.json
+.kube/config
+.aws/credentials
+.vault-token
+
+# Infrastructure state
+.terraform/
+*.tfstate
+*.tfstate.backup
 
 # IDE and System files
 .vscode/
